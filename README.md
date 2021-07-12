@@ -1,3 +1,10 @@
+*** Das ist die aktuellste Version vom MAIN mit allen Änderungen von mir ***
+
+- ich hab alles übertragen, den Enemy2-Prefab habe ich nochmal angepasst (aber irgendwie ist Enemy2 nicht als Prefab in den Szenen, oder?)
+- den collCounter neu machen habe ich angefangen, im GameMaster ist eine neue Methode (auskommentiert) und die Referenz im PlayerController - ich bin heute so tot, ich kann es gerade nicht mehr testen >.<
+- sonst: siehe unten
+
+
 Asset-Ordner:
 
 - Animations
